@@ -2,14 +2,13 @@
   "name": "travel-site",
   "version": "1.0.0",
   "scripts": {
-    "dev": "webpack",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "webpack"
   },
   "dependencies": {
     "normalize.css": "^8.0.1"
   },
   "devDependencies": {
-    "webpack": "^4.41.0",
-    "webpack-cli": "^3.3.9"
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
   }
 }
