@@ -6,5 +6,7 @@ module.exports = {
     output: {
         filename: 'bundled.js',
         path: path.resolve(__dirname, 'app')
-    }
+    },
+    mode: 'development',
+    watch: true
 }
